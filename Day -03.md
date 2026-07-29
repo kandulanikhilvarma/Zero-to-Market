@@ -45,7 +45,7 @@ git status
 --hard un-commits AND throws the file changes away entirely
  q -- to get back to normal prompt
 
- [Day-03 Terminal.txt](https://github.com/user-attachments/files/30501178/Day-03.Terminal.txt)
+ ([Day-03 Terminal.txt](https://github.com/user-attachments/files/30501178/Day-03.Terminal.txt)
 <img width="1537" height="881" alt="image" src="https://github.com/user-attachments/assets/469f0a7c-a81d-41f4-b921-c4fe71cd21dd" />
 rudra@NIKHILVARMA:~$ cd terminal-note
 -bash: cd: terminal-note: No such file or directory
@@ -513,3 +513,4 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/kandulanikhilvarma/terminal-notes.git
    06fa0c6..b872719  main -> main
 rudra@NIKHILVARMA:~/terminal-notes$ ^C
+)
